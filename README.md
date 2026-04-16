@@ -1,4 +1,3 @@
-```
 <!-- 🔥 HEADER ANIMATION 🔥 -->
 <div align="center">
 
