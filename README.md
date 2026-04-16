@@ -1,103 +1,87 @@
-<div align="center">╭──╮
-│🕷️│
-╰──╯
-██████╗ ██╗   ██╗██████╗ ██╗     ██╗ ██████╗██╗  ██╗
-██╔══██╗██║   ██║██╔══██╗██║     ██║██╔════╝██║  ██║
-██████╔╝██║   ██║██████╔╝██║     ██║██║     ███████║
-██╔═══╝ ██║   ██║██╔══██╗██║     ██║██║     ██╔══██║
-██║     ╚██████╔╝██████╔╝███████╗██║╚██████╗██║  ██║
-╚═╝      ╚═════╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝╚═╝  ╚═╝
+<div align="center">╭─🕷️─╮
+ VENOM
+╰────╯
 
-<h1>🕸️ VENOM • Advanced Client-Side Intelligence Framework</h1>
-<h3>⚡ Browser Fingerprinting • Network Recon • Behavioral Analysis ⚡</h3><p>
-  <img src="https://img.shields.io/badge/Version-5.0.0-red?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/License-Educational%20Only-darkred?style=for-the-badge&logo=bookstack">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=statuspage">
-  <img src="https://img.shields.io/badge/Author-DILSH-purple?style=for-the-badge&logo=devdotto">
-</p><br><p>
-  <a href="#-overview">Overview</a> •
-  <a href="#-features">Features</a> •
-  <a href="#-architecture">Architecture</a> •
-  <a href="#-data-collected">Data Collected</a> •
-  <a href="#-installation">Installation</a> •
-  <a href="#-deployment">Deployment</a> •
-  <a href="#-telegram-integration">Telegram</a> •
-  <a href="#-disclaimer">Disclaimer</a>
-</p><br><img src="https://capsule-render.vercel.app/api?type=venom&color=8B0000&height=200&section=header&text=WE%20ARE%20VENOM&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/></div>---
+<h1>🕸️ VENOM • Advanced Client Intelligence</h1><p>
+  <img src="https://img.shields.io/badge/Version-5.0.0-8B0000?style=flat-square">
+  <img src="https://img.shields.io/badge/Status-Active-00ff99?style=flat-square">
+  <img src="https://img.shields.io/badge/Focus-Research-ff00ff?style=flat-square">
+</p><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:000000&height=120&section=header&text=VENOM&fontColor=ffffff&fontSize=40&animation=fadeIn"/></div>---
 
-🎯 OVERVIEW
+🎯 Overview
 
-VENOM is an advanced client-side intelligence gathering framework designed for educational and research purposes only. It demonstrates modern browser fingerprinting techniques, network reconnaissance, and behavioral analytics in a single, lightweight HTML payload.
+VENOM is a lightweight browser intelligence framework built for research & educational demonstrations.
 
-«⚠️ This tool is intended for security researchers and educational use only.»
++ Browser Fingerprinting
++ Network Insight
++ Behavioral Signals
 
 ---
 
-🔥 FEATURES
+⚡ Core Modules
 
-Module| Capability| Status
-🌐 Network Intel| IP, ISP, Geo, VPN Detection| ✅
-🏠 Internal Recon| WebRTC Leak, Port Scan| ✅
-💻 Hardware Profiling| CPU, RAM, GPU| ✅
-🆔 Fingerprinting| Canvas, Audio, Fonts| ✅
-👁️ Behavioral| Mouse, Keystrokes| ✅
-📡 Exfiltration| Telegram Integration| ✅
+[NET]  → IP • ISP • GEO • VPN
+[SYS]  → CPU • RAM • GPU
+[FP]   → Canvas • Audio • Fonts
+[BEH]  → Mouse • Keys • Activity
+[EXT]  → Data Delivery
 
 ---
 
-🏗️ ARCHITECTURE
+🧬 Architecture
 
-TIER 1 → TIER 2 → TIER 3 → TIER 4 → EXFIL
+┌─T1─┐ → ┌─T2─┐ → ┌─T3─┐ → ┌─T4─┐
+ Basic   System   Behavior  Advanced
+                 ↓
+            Exfil Layer
 
 ---
 
-📦 INSTALLATION
+🚀 Quick Start
 
 git clone https://github.com/DILSH-SL/VENOM.git
 cd VENOM
-code .
 
 ---
 
-🚀 DEPLOYMENT
+🔐 Config
 
-- GitHub Pages
-- Netlify
-- Vercel
-- Local Server
+const BOT_TOKEN = "YOUR_TOKEN";
+const CHAT_ID  = "YOUR_ID";
 
 ---
 
-🔐 TELEGRAM SETUP
+🧪 Live Flow
 
-const BOT_TOKEN = 'YOUR_BOT_TOKEN';
-const CHAT_ID = 'YOUR_CHAT_ID';
-
----
-
-⚠️ DISCLAIMER
-
-This project is for educational purposes only.
-
-You must:
-
-- Use only on systems you own or have permission
-- Not use for illegal activity
+[0ms]   Init
+[5ms]   System Scan
+[200ms] Network Fetch
+[400ms] First Output
+[2s]    Full Analysis
 
 ---
 
-👨‍💻 AUTHOR
+🎨 Visual Style
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=100&section=header"/></div>---
+
+⚠️ Disclaimer
+
+EDUCATIONAL USE ONLY
+
+Use responsibly.
+Unauthorized usage = your problem, not mine.
+
+---
+
+👤 Author
 
 DILSH
 
 ---
 
-📜 LICENSE
+<div align="center">> WE ARE VENOM
 
-Educational Use Only
-
----
-
-<div align="center">⭐ Star this repository if you found it useful ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=100&section=footer"/>⭐ Star if it looks cool ⭐
 
 </div>
